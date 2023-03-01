@@ -24,3 +24,10 @@ mydb.commit()
 
 
 print(mycursor.rowcount, "was inserted.")
+
+#Verifica tramite la console dei comandi di aver inserito gli animali nel DB
+
+mysql  #nei comandi 
+show databases ;
+use Animali ;
+ select * from Mammiferi ;

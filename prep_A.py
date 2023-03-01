@@ -25,3 +25,5 @@ mycursor = mydb.cursor()
 mycursor.execute("CREATE TABLE Mammiferi ( PersonID int, Nome_proprio varchar(255), Razza varchar(255), Peso int, Eta int )")
 
 
+
+
